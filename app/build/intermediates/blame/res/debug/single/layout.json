@@ -80,12 +80,12 @@
         "source": "C:\\Users\\Balázs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a9edca69e2888d2f15314e86bdd80fba\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Balázs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a9edca69e2888d2f15314e86bdd80fba\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\Users\\Balázs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a9edca69e2888d2f15314e86bdd80fba\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Balázs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a9edca69e2888d2f15314e86bdd80fba\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
