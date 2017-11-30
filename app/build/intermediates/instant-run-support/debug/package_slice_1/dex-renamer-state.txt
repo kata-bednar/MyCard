@@ -1,0 +1,4 @@
+#Mon Nov 27 18:54:54 CET 2017
+base.0=D\:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex

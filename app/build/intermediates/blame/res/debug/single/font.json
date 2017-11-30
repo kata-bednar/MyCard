@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\font\\freescr.ttf",
+        "source": "D:\\GoogleSchool\\MyCard\\app\\src\\main\\res\\font\\freescr.ttf"
+    },
+    {
+        "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\font\\exmouth.ttf",
+        "source": "D:\\GoogleSchool\\MyCard\\app\\src\\main\\res\\font\\exmouth.ttf"
+    },
+    {
+        "merged": "D:\\GoogleSchool\\MyCard\\app\\build\\intermediates\\res\\merged\\debug\\font\\georgiaz.ttf",
+        "source": "D:\\GoogleSchool\\MyCard\\app\\src\\main\\res\\font\\georgiaz.ttf"
+    }
+]
